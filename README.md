@@ -95,7 +95,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Github Stats:</b>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhesh-desai&show_icons=true&locale=en" alt="siddhesh-desai" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyzanahammad&show_icons=true&locale=en" alt="siddhesh-desai" />
 </p>
 
 <br>
@@ -103,5 +103,5 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Github Streaks:</b>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-desai&" alt="siddhesh-desai" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fyzanahammad&" alt="siddhesh-desai" />
 </p>
