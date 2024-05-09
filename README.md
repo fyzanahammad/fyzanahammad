@@ -1,7 +1,7 @@
 ![logo](E:\Github_projects\fyzanahammad\banner-img.jpeg)
 <h1></h1>
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Siddhesh Desai</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Fyzan Ahammad</h1>
 <h3 align="center">A Full-time Learner Building Innovative Projects for a Better Society!</h3>
 
 <br>
