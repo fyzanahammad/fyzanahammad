@@ -18,8 +18,16 @@
 
 - 📫 How to reach me **fyzanahammad@gmail.com**
 
-- 📄 Know about my experiences - <a href="resume.pdf" target="_blank">Resume Link</a>
+- 📄 Know about my experiences - [Resume Link](resume.pdf)
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const links = document.querySelectorAll("a[href$='.pdf']");
+    links.forEach(link => {
+        link.setAttribute("target", "_blank");
+    });
+});
+</script>
 
 <br>
 
