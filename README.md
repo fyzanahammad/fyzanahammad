@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fyzanahammad@gmail.com**
 
-- 📄 Know about my experiences <a href="pdf/resume.pdf">Resume</a>
+- 📄 Know about my experiences <a href="resume.pdf">Resume</a>
 
 <br>
 
