@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**
 
+- 🖥️ Checkout my **Portfolio** at [Minimal-portfolio](https://fyzanahammad.github.io/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/fyzanahammad](https://github.com/fyzanahammad)
 
 - 📫 How to reach me **fyzanahammad@gmail.com**
