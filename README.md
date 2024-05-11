@@ -1,4 +1,4 @@
-![logo](E:\Github_projects\fyzanahammad\banner-img.jpeg)
+![logo](fyzanahammad\banner-img.jpeg)
 <h1></h1>
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Fyzan Ahammad</h1>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fyzanahammad@gmail.com**
 
-- 📄 Know about my experiences - [Resume Link](https://drive.google.com)
+- 📄 Know about my experiences - [Resume Link](resume.pdf)
 
 <br>
 
