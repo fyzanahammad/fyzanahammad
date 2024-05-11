@@ -20,15 +20,6 @@
 
 - 📄 Know about my experiences - [Resume Link](resume.pdf)
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const links = document.querySelectorAll("a[href$='.pdf']");
-    links.forEach(link => {
-        link.setAttribute("target", "_blank");
-    });
-});
-</script>
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Connect with me:</b>
