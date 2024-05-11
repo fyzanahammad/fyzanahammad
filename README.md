@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fyzanahammad@gmail.com**
 
-- 📄 Know about my experiences - [Resume Link](resume.pdf)
+- 📄 Know about my experiences - [Resume Link](resume.pdf){:target="_blank"}
 
 <br>
 
