@@ -1,109 +1,259 @@
-![logo](fyzanahammad\banner-img.jpeg)
-<h1></h1>
+<div align="center">
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Fyzan Ahammad</h1>
-<h3 align="center">A Full-time Learner Building Innovative Projects for a Better Society!</h3>
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██╗  ██╗███████╗██╗   ██╗    ████████╗██╗  ██╗███████╗██████╗███████╗    ║
+║   ██║  ██║██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝    ║
+║   ███████║█████╗   ╚████╔╝        ██║   ███████║█████╗  ██████╔╝█████╗      ║
+║   ██╔══██║██╔══╝    ╚██╔╝         ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝      ║
+║   ██║  ██║███████╗   ██║          ██║   ██║  ██║███████╗██║  ██║███████╗    ║
+║   ╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝    ║
+║                                                               ║
+║              I'm Fyzan — I build AI that actually works.      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### 🤖 AI Developer • 🎯 Computer Vision Nerd • 🗣️ Voice AI Enthusiast
+
+*Turning caffeine into YOLO models and real-time AI systems*
+
+[![Portfolio](https://img.shields.io/badge/🚀_Check_Out_My_Work-000?style=for-the-badge&logo=vercel)](https://fyzan-ahammad-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/💬_Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fyzanahammad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fyzanahammad)
+
+![](https://komarev.com/ghpvc/?username=fyzanahammad&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+## 👨‍💻 What I Do
+
+```python
+class FyzanAhammad:
+    def __init__(self):
+        self.name = "Fyzan Ahammad"
+        self.role = "AI Developer"
+        self.language_spoken = ["en_US", "hi_IN", "ur_PK", "te_IN"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something cool together 🚀")
+    
+    def current_obsessions(self):
+        return [
+            "Training YOLO models that don't hallucinate",
+            "Building voice agents that actually sound human",
+            "Optimizing models to run on a potato (Jetson Nano)",
+            "Making AI do useful things, not just party tricks"
+        ]
+    
+    def achievements_unlocked(self):
+        return {
+            "🥈 Hackathon Runner-Up": "India's First Intl. Agri Hackathon",
+            "🎯 Model Accuracy": "98% segmentation mAP on TrueRice AI",
+            "⚡ Speed Demon": "10X inference speed boost on edge devices",
+            "☕ Coffee Consumed": "Too much to count..."
+        }
+```
+
+> *"From concept to production — because POCs are overrated."*
+
+---
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 TrueRice AI System
+Advanced rice grain classification with YOLOv11n
+- **98% segmentation mAP, 94% precision**
+- 6 rice types classification with dimension analysis
+- Lang-SAM auto-segmentation + SAHI inference
+
+**Tech:** `YOLOv11` `Lang-SAM` `SAHI` `OpenVINO`
+
+</td>
+<td width="50%">
+
+### ☕ Coffee Quality Analyzer
+Comprehensive bean quality assessment system
+- YOLOv11 object detection + segmentation
+- SAHI sliced inference for small defects
+- High-accuracy defect classification
+
+**Tech:** `YOLOv11` `SAHI` `AWS` `Computer Vision`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎙️ AI Interviewer System
+Multi-specialized interview platform
+- **3 specialized interviewers** (HR/Tech/Coding)
+- Real-time voice communication + screen sharing
+- Complex tool calling with STT/TTS pipelines
+
+**Tech:** `LiveKit` `OpenAI` `Gemini` `Voice AI`
+
+</td>
+<td width="50%">
+
+### 🤖 Real-time Voice Agent
+Voice agent infrastructure with AI APIs
+- LiveKit + OpenAI TTS/STT/LLM pipelines
+- Gemini vision for screen-sharing
+- Fallback handling & session management
+
+**Tech:** `LiveKit` `OpenAI` `Gemini Vision` `WebRTC`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏭 CNC Machining Automation
+AI-powered manufacturing optimization
+- Automated toolpath from 3D CAD files
+- Integration with Fusion 360 & FreeCAD
+- FeatureNet & CADNet implementation
+
+**Tech:** `FeatureNet` `CADNet` `Fusion 360` `Python`
+
+</td>
+<td width="50%">
+
+### 📊 Spryx GRI Index Automation
+Sustainability report analysis system
+- Embedding models + role-based prompting
+- PDF parsing with table extraction
+- Automated compliance analysis
+
+**Tech:** `Embedding Models` `PDF Parsing` `LaTeX` `NLP`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 My Toolbox
+
+<div align="center">
+
+### 🤖 AI/ML Arsenal
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 👁️ Computer Vision Superpowers
+![YOLO](https://img.shields.io/badge/YOLOv8/v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![SAHI](https://img.shields.io/badge/SAHI-FF6B6B?style=for-the-badge)
+
+### 🗣️ Voice AI & NLP Magic
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-00E5FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+### 🚀 MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌐 Full-Stack Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats (I Promise I Commit)
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=fyzanahammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fyzanahammad&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+*Proof that I actually code and don't just copy from Stack Overflow* 😉
+
+</div>
+
+---
+
+## 🏆 Cool Stuff I've Done
+
+<div align="center">
+
+| Achievement | Status |
+|------------|--------|
+| 🥈 Hackathon Runner-Up | *India's First Intl. Agri Hackathon* |
+| 🎯 Model Accuracy Record | *98% mAP on production systems* |
+| ⚡ Speed Optimization | *10X faster inference on edge devices* |
+| 🤖 AI Projects Shipped | *5+ production-grade systems* |
+| 📊 Business Impact | *$50K+ ROI generated* |
+| ☕ Coffee Level | *Critical ☕☕☕* |
+
+</div>
+
+---
+
+## 📝 I Write Too (Sometimes)
+
+When I'm not training models, I write about data, AI, and the occasional debugging nightmare:
+
+- 🔍 [**The First Data Expedition**](https://medium.com/@fyzanahammad) — *FIFA 23 dataset adventures*
+- ☁️ [**Mounting S3 to Databricks**](https://medium.com/@fyzanahammad) — *Because cloud storage is fun*
+- 💓 [**Biometric ID using ECG**](https://medium.com/@fyzanahammad) — *Your heartbeat as your password*
+
+---
+
+## 🤝 Let's Build Something Cool
+
+<div align="center">
+
+### Got an AI idea? Need someone to turn your ML dreams into reality?
+
+[![Email Me](https://img.shields.io/badge/💌_Drop_Me_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fyzanahammad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fyzanahammad)
+[![Portfolio](https://img.shields.io/badge/🚀_See_My_Work-000000?style=for-the-badge&logo=vercel)](https://fyzanahammad.github.io/)
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">About Me:</b>
+```
+💡 Currently open to:
+   • Cool AI/ML projects
+   • Computer Vision challenges  
+   • Voice AI adventures
+   • Open source collabs
+   • Or just chat about YOLO models over coffee ☕
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fyzanahammad&label=Profile%20views&color=0e75b6&style=flat" alt="fyzanahammad" /> </p>
+</div>
 
-- 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**
+---
 
-- 🖥️ Checkout my **Portfolio** at [Minimal-portfolio](https://fyzanahammad.github.io/)
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/fyzanahammad](https://github.com/fyzanahammad)
+### *"Code. Train. Deploy. Repeat."* 🔁
 
-- 📫 How to reach me **fyzanahammad@gmail.com**
+**Made with 💜 (and lots of ☕) by Fyzan Ahammad**
 
-- 📄 Know about my experiences <a href="resume.pdf">Resume</a>
+*Building AI that doesn't just work in Jupyter notebooks*
 
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Connect with me:</b>
-
-<p align="left">
-<a href="https://twitter.com/siddheshdesai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddheshdesai_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thesiddheshdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesiddheshdesai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18415485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18415485" height="30" width="40" /></a>
-<a href="https://instagram.com/siddheshdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddheshdesai" height="30" width="40" /></a>
-<a href="https://medium.com/@desaisiddhesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desaisiddhesh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/siddheshdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siddheshdesai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/siddheshdesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddheshdesai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/siddheshdesai777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddheshdesai777" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/siddheshdesai777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddheshdesai777" height="30" width="40" /></a>
-</p>
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Languages and Tools:</b>
-
-<p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-</p>
-
-<br>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Github Stats:</b>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyzanahammad&show_icons=true&locale=en" alt="siddhesh-desai" />
-</p>
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Github Streaks:</b>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fyzanahammad&" alt="siddhesh-desai" />
-</p>
+</div>
